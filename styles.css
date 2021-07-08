@@ -1,0 +1,54 @@
+.strikeThrough {
+  text-decoration: line-through;
+}
+
+.spanElement {
+  display: none;
+}
+
+.deleteButton {
+  padding: 0px;
+  width: 45px;
+  height: 45px;
+  color: white;
+  background-color: #e64c3c;
+  border: none;
+}
+
+.redBorder {
+  box-shadow: 0 0 2px 2px #e64c3c inset;
+}
+
+.listItem {
+  padding: 0px;
+  height: 45px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #6f7480;
+}
+
+.listColor {
+  background-color: #f7f7f7;
+}
+
+#btn {
+  font-size: 1.5em;
+  color: white;
+}
+
+#input {
+  background-color: white;
+  height: 50px;
+  width: 100%;
+  color: #1b262c;
+}
+
+.navBar {
+  background-color: #3282b8;
+  color: white;
+}
+
+.liText {
+  margin-left: 20px;
+}
