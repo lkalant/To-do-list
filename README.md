@@ -1,4 +1,4 @@
 # practice-3
 To-do list using JQuery
 
-https://lkalant.github.io/practice-3/
+https://lkalant.github.io/To-do-list/
